@@ -1,6 +1,7 @@
 ## Your App name
+Responsive Navbar Menu
 
-**[Test this app yourself](github.io)**
+
 
 ---
 <img src="./img/nav.png" alt="Alt text">
